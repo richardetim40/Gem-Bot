@@ -1,0 +1,1 @@
+worker: python gem_scanner_bot.py
